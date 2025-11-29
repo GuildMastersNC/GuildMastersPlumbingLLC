@@ -1,7 +1,3 @@
-# PlumbingLLC
-Guild Masters Plumbing LLC is a family-operated business servicing Wake, Johnston, and Durham County in North Carolina.
-<!DOCTYPE html>
-
 <html lang="en">
 <title>W3.CSS</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -19,8 +15,11 @@ Guild Masters Plumbing LLC is a family-operated business servicing Wake, Johnsto
     
       <h1>Guild Masters Plumbing LLC</h1>
       <p>Guild Masters Plumbing LLC is a family-operated business servicing Wake, Johnston, and Durham County in North Carolina.</p>
-      <p>Licensed Plumber and Electrician in the state of North Carolina.</p>
       <p> With over 25 years of experience, we are bound to find the right solution for you!</p>
+      <p>North Carolina State Board of Examiners of Plumbing, Heating and Fire Sprinkler Contractors</p>
+      <p>License #35845</p>
+      <p>North Carolina State Board Examiners of Electrical Contractors</p>
+      <p>License #35554</p>
       <br>
       <p>We offer: </p>
       <p>Residential and Commercial </p>
